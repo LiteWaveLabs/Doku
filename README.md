@@ -1,2 +1,2 @@
-# Duko
+# Doku
 Dokumentation.
